@@ -61,10 +61,10 @@ The simulations also show that:
 
 ## **Languages and tools**
 
-Python
-NumPy
-pandas
-SciPy
-matplotlib
-requests
+* Python
+* NumPy
+* pandas
+* SciPy
+* matplotlib
+* requests
 
